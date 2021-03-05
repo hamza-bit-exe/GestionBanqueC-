@@ -1,0 +1,7 @@
+C:\Users\hzouh\OneDrive\Bureau\Banque C-sharp\Banque C-sharp\bin\Debug\Banque C-sharp.exe.config
+C:\Users\hzouh\OneDrive\Bureau\Banque C-sharp\Banque C-sharp\bin\Debug\Banque C-sharp.exe
+C:\Users\hzouh\OneDrive\Bureau\Banque C-sharp\Banque C-sharp\bin\Debug\Banque C-sharp.pdb
+C:\Users\hzouh\OneDrive\Bureau\Banque C-sharp\Banque C-sharp\obj\Debug\Banque C-sharp.csprojAssemblyReference.cache
+C:\Users\hzouh\OneDrive\Bureau\Banque C-sharp\Banque C-sharp\obj\Debug\Banque C-sharp.csproj.CoreCompileInputs.cache
+C:\Users\hzouh\OneDrive\Bureau\Banque C-sharp\Banque C-sharp\obj\Debug\Banque C-sharp.exe
+C:\Users\hzouh\OneDrive\Bureau\Banque C-sharp\Banque C-sharp\obj\Debug\Banque C-sharp.pdb
